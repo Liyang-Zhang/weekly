@@ -1,0 +1,4 @@
+baseURL = 'https://zhangly.link/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-stack'
