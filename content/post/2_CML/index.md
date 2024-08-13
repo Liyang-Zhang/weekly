@@ -3,14 +3,22 @@ title: CML临床相关知识介绍
 date: 2024-08-13T11:00:00+0800
 description: Record the knowledge about CML
 tags:
-    - CML
-    - Haematolymphoid Tumours
-    - WHO
-    - Chronic Myeloid Leukaemia
+    - Chronic Myeloid Leukemia (CML)
+    - Tyrosine Kinase Inhibitors (TKI)
+    - BCR-ABL1
+    - Myeloproliferative Neoplasms
+    - WHO 5th Edition
+    - Hematolymphoid Tumours
+    - Leukemia
+    - Cancer Classification
+    - Cytogenetics
+    - Molecular Pathology
 categories:
-    - biology
-    - bioinfomatics
-    - clinical knowledge
+    - Clinical Research
+    - Hematology
+    - Oncology
+    - WHO Classification
+    - Medical Education
 ---
 
 前段时间有一个与血液肿瘤临床医生合作的科研项目，借此机会系统的了解下血液肿瘤相关的临床知识，主要参考的的是[WHO最新发布的第五版血液肿瘤分类](https://www.nature.com/articles/s41375-022-01620-2)。本文主要记录其中的Chronic Myeloid Leukaemia(CML)的相关知识。
@@ -142,7 +150,7 @@ extramedullary blast proliferation：髓外原始细胞增殖
 > - <span style="color:rgb(23, 68, 172);">Desirable</span>: bone marrow evaluation at diagnosis or at suspected progression for assessment of disease phase; evaluation for ACAs.
 
 
-neutrophilic leukocytosis: 中心粒细胞增多症
+neutrophilic leukocytosis: 中性粒细胞增多症
 
 与CML的定义是符合的，理想情况下是通过骨髓评估推测病程阶段。
 
