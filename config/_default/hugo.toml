@@ -2,7 +2,7 @@
 baseurl = "https://zhangly.link/"
 languageCode = "zh-cn"
 paginate = 5
-title = "Weekly"
+title = "Leon's Weekly Notes"
 theme = "hugo-theme-stack"
 
 # Theme i18n support
